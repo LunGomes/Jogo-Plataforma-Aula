@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/meuMenu/fundo.png?fileID=2800000&amp;guid=238646cbda169634f87544489440e7d9&amp;type=3#fundo&quot;); -unity-font: url(&quot;project://database/Assets/meuMenu/fontes/LilitaOne-Regular.ttf?fileID=12800000&amp;guid=1feb9f012903d1e43985df0891ef352e&amp;type=3#LilitaOne-Regular&quot;); -unity-font-definition: initial; -unity-font-style: bold; justify-content: center; align-items: center;">
+        <ui:Label tabindex="-1" text="SunnyLand" parse-escape-sequences="true" display-tooltip-when-elided="true" style="color: rgb(232, 66, 79); font-size: 36px; padding-bottom: 8px;" />
+        <ui:Button text="Jogar" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btnJogar" style="margin-top: 70px; -unity-text-outline-color: rgb(52, 153, 245); background-color: rgb(255, 255, 255); color: rgb(232, 66, 79); border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px;" />
+    </ui:VisualElement>
+</ui:UXML>
